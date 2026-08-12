@@ -1,0 +1,6 @@
+{
+  "name": "A23 PRO",
+  "description": "Market predictions, OTC formulas, Jodi numbers, data sync, and accuracy reports for Sridevi, Kalyan, Milan, and Time Bazar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

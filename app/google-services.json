@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650724988079",
+    "project_id": "a23-pro-7461c",
+    "storage_bucket": "a23-pro-7461c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650724988079:android:ba64f922246a62c307705a",
+        "android_client_info": {
+          "package_name": "com.aistudio.a23pro.marketpredict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVrHu8G1-HUHeTs9wZNDR5Hb5k-eCL_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
